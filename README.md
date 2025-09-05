@@ -58,10 +58,8 @@ mvn spring-boot:run
 - `GET /api/tasks/{id}` → Get task by ID  
 - `PUT /api/tasks/{id}` → Update a task  
 - `DELETE /api/tasks/{id}` → Delete a task  
-
-### SyncQueue APIs
-- `GET /api/sync-queue` → Get all sync queue records  
-
+- `backend ulr` -> https://task-management-system-jq9f.onrender.com
+- `example for postman to create task in postman`-> https://task-management-system-jq9f.onrender.com/api/tasks
 ---
 
 ## 🗄 Database Console (H2)
